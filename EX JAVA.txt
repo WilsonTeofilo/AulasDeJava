@@ -102,6 +102,37 @@ Scanner scan = new Scanner (System.in);
     }
     
 }
-//ex4
 
+
+
+
+
+
+//ex 6
+
+package ex6;
+
+import java.util.Scanner;
+
+public class Ex6 {
+
+    public static void main(String[] args) {
+Scanner scan = new Scanner (System.in);
+
+
+
+
+for (int multi = 7; multi<200; multi+=7 ){
+
+ 
+        System.out.println(multi);
+    }
+}
+    
+    
+    
+    
+    
+    }
+    
 
